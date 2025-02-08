@@ -41,6 +41,10 @@ LaAgendaDAW/src/la/agenda/daw/
 ## 👨‍💻 Autor
 - **Alejandro Morena** ✨
 
+- ## 🤝 Contribución
+Si deseas mejorar este proyecto, revisa el archivo `CONTRIBUIR.md` para más detalles sobre cómo contribuir. 🎉
+
+
 ## 📜 Licencia
 Este proyecto es de uso libre y educativo. 📚
 
