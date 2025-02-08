@@ -67,10 +67,5 @@ Describe claramente el problema o la mejora para que podamos atenderlo eficiente
 
 ---
 
-## 🤝 Código de Conducta
-
-Queremos mantener un entorno respetuoso y colaborativo. Por favor, sigue las normas del código de conducta en `CODE_OF_CONDUCT.md`. 🙌
-
----
 
 🎉 ¡Gracias por tu apoyo a **Agenda DAW**! Tu ayuda hace la diferencia. 💡💻
