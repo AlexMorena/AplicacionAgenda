@@ -11,7 +11,7 @@ Este proyecto es una agenda de contactos en Java con gestión de usuarios. Permi
 
 ## 📂 Estructura del Proyecto
 ```
-la.agenda.daw/
+LaAgendaDAW/src/la/agenda/daw/
 │── 📜 Agenda.java                # Clase principal de gestión de contactos
 │── 👤 Usuario.java                # Clase de gestión de usuarios
 │── 👤👤 Contactos.java            # Clase de gestión de usuarios
