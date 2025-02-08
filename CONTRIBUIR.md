@@ -57,6 +57,7 @@ LaAgendaDAW/src/la/agenda/daw/
 │── ⚠️ UsuarioInvalidoException.java  # Excepción personalizada para validaciones
 │── 🗂️ Usuarios.txt               # Archivo donde se almacenan los usuarios
 
+```
 ---
 
 ## 🛑 Reportar Problemas
